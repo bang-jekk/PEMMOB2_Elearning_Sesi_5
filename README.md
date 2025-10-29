@@ -21,8 +21,9 @@ Aplikasi ini dibuat dengan konsep **Material Design** menggunakan **ThemeData gl
 ## Tampilan Aplikasi
 Berikut cuplikan tampilan aplikasi **Dokter Cinta Sederhana**:
 
-![Tampilan Aplikasi](screenshot.png)
+![Tampilan Aplikasi](GAMBAR 1.PNG).
 
-> 💡 *Letakkan file `screenshot.png` di folder utama proyek agar gambar ini muncul dengan benar.*
+![Tampilan Aplikasi](GAMBAR 2.PNG).
+
 
 ---
