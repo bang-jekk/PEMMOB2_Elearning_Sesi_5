@@ -1,16 +1,28 @@
-# sesi5_app
+# 💘 Aplikasi Flutter - Dokter Cinta Sederhana
 
-A new Flutter project.
+## Deskripsi Aplikasi
+**Dokter Cinta Sederhana** adalah aplikasi Flutter kecil bertema romantis yang memberikan nasihat cinta dengan cara lucu dan interaktif.  
+Terdapat **4 tombol utama**, masing-masing menampilkan **notifikasi (SnackBar)** berisi pesan motivasi cinta saat ditekan.
 
-## Getting Started
+Aplikasi ini dibuat dengan konsep **Material Design** menggunakan **ThemeData global**, **warna pink lembut**, serta **font custom (supercell)** agar tampil manis dan konsisten dengan tema cinta.
 
-This project is a starting point for a Flutter application.
+---
+## Identitaskuhhh
+| Keterangan | Data |
+|-------------|------|
+| **Nama** | Zainuddin Muhammad Zakiy |
+| **NIM** | 23552011173 |
+| **Kelas** | TIF K 23B |
+| **Mata Kuliah** | Pemrograman Mobile 2 |
+| **Dosen Pengampu** | Nova Agustina, ST., M.Kom. |
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Tampilan Aplikasi
+Berikut cuplikan tampilan aplikasi **Dokter Cinta Sederhana**:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Tampilan Aplikasi](screenshot.png)
+
+> 💡 *Letakkan file `screenshot.png` di folder utama proyek agar gambar ini muncul dengan benar.*
+
+---
